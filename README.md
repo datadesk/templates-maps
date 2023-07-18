@@ -4,6 +4,7 @@ A home for the LA Times data and graphics team's frequently used map things.
 |File/Folder|Description|Source|URL|Last Updated|By whom?|
 |---|---|---|---|---|---| 
 |*disney-rides.geojson*|*Lat,Lon of all the different rides at Disney Land*|*Disney*|*http://www.someurl.com*|*01/01/1900*|*@golfecholima*|   |
+|[zip-county-hud](https://github.com/datadesk/templates-maps/blob/main/zip-county-hud.csv)   |ZIPCode to county FIPS crosswalk|HUD   | https://www.huduser.gov/portal/datasets/usps_crosswalk.html  | 07/17/23  | Iris Lee  |
 |   |Neighborhoods (both MappingLA and Neighborhood council/Empower)|   |   |   |   |
 |   |Assembly districts/Senate districts|   |   |   |   |
 |   |Supervisor districts LA Co|    |   |   |   |
